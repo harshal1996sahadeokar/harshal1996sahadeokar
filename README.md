@@ -1,45 +1,71 @@
-# 🚀 Hi, I'm Harshal Sahadeokar
+# Hi, I'm Harshal Sahadeokar
 
-## AWS Cloud & DevOps Engineer
+**Senior DevOps / Platform Engineer** · Infosys · ex-HCLTech · India (IST)
 
-I am a passionate DevOps and Cloud Engineer focused on building scalable, secure, and automated infrastructure on AWS and Azure. I enjoy working with infrastructure as code, CI/CD pipelines, container orchestration, and cloud-native solutions.
+I build and run cloud platforms on AWS (and Azure): infrastructure as code, CI/CD, Kubernetes, and, increasingly, AI tooling that lives inside the delivery pipeline.
 
-### Skills
-
-- Cloud: AWS, Azure
-- IaC: Terraform, CloudFormation, Ansible
-- CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, AWS CodePipeline
-- Containers: Docker, Kubernetes, Helm
-- Monitoring & Security: CloudWatch, X-Ray, CloudTrail, Prometheus, Grafana, IAM, Security Groups, KMS
-- Linux & Automation: Shell Scripting, Linux Administration, Automation
-- Version Control: Git, GitHub, GitLab
-
-### Experience Highlights
-
-- Worked with BMC Control-M as a Job Scheduler
-- Designed and automated cloud infrastructure and deployment workflows
-- Built scalable, secure DevOps pipelines across multiple projects
-- Focused on GitOps, cloud security, and operational efficiency
-
-### Core Interests
-
-- Cloud Architecture
-- DevSecOps
-- Infrastructure Automation
-- Kubernetes and Container Security
-- CI/CD Optimization
-- Performance and Cost Optimization
-
-### Connect with Me
-
-- Email: harshal.sahadeokar96@gmail.com
-- GitHub: https://github.com/harshal1996sahadeokar
-- LinkedIn: https://www.linkedin.com/in/harshal-sahadeokar
-
-### Quote
-
-> Passionate about automation, cloud innovation, and driving efficiency in DevOps-driven environments.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshalsahadeokar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalsahadeokar/)
+![Profile views](https://komarev.com/ghpvc/?username=harshal1996sahadeokar&label=Profile%20views&style=flat)
 
 ---
 
-Thanks for visiting my profile! 🚀
+## What I focus on
+
+| Area | What I do |
+|---|---|
+| **Platform & IaC** | Terraform modules, multi-environment AWS setups, remote state, reusable pipeline templates |
+| **CI/CD & supply chain** | GitHub Actions, Jenkins, GitLab CI, JFrog Artifactory / Nexus, SonarQube, scanning in the pipeline |
+| **Containers & Kubernetes** | EKS, Helm, GitOps-style delivery |
+| **Observability & security** | CloudWatch, Prometheus, Grafana, IAM least privilege, KMS, GuardDuty |
+| **AI tooling** | Agent-based DevOps assistants, LLM-assisted PR review, Amazon Bedrock AgentCore, Claude API / MCP |
+
+---
+
+## Featured projects
+
+<!-- Edit the table below by hand: pick 4-6 flagship repos. -->
+
+| Project | Problem → approach | Stack |
+|---|---|---|
+| **AI PR Reviewer** | Slow, inconsistent code review → LLM-assisted review in the pipeline | Python, LLM API, GitHub Actions |
+| **DevOps Chatbot Agent** | Repetitive ops questions → agent with tool access to infra context | Agents, MCP, AWS |
+| **Supply-Chain Orchestration (Bedrock AgentCore)** | Manual coordination → multi-agent orchestration lab | Amazon Bedrock AgentCore |
+| **Package registry setup (npm / JFrog Artifactory)** | Uncontrolled dependencies → proxied, governed registry | Artifactory, npm |
+
+> Link each row to its repo once it is public, and add an architecture diagram plus a "why I designed it this way" section to each repo README.
+
+---
+
+## Latest activity (auto-updated)
+
+<!-- RECENT_REPOS:START -->
+_Updating soon…_
+<!-- RECENT_REPOS:END -->
+
+<!-- RECENT_ACTIVITY:START -->
+_Updating soon…_
+<!-- RECENT_ACTIVITY:END -->
+
+<sub>Last refreshed: <!-- UPDATED:START -->never<!-- UPDATED:END --> · refreshed daily by GitHub Actions</sub>
+
+---
+
+## Tech I use
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+---
+
+## Contact
+
+Open to conversations on platform engineering, AI-in-DevOps and cloud automation. Reach me on [LinkedIn](https://www.linkedin.com/in/harshalsahadeokar/).
