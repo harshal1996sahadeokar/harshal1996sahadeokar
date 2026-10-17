@@ -1,49 +1,45 @@
-# 🚀 Hi, I’m Harshal Sahadeokar!  
+# 🚀 Hi, I'm Harshal Sahadeokar
 
-## 🌟 AWS Cloud & DevOps Engineer  
-☁️ **AWS | Azure** | 🐧 **Linux Enthusiast** | 🐳 **Docker & Containerization** | ⚙️ **Infrastructure as Code (Terraform, CloudFormation, Ansible)** | ☸️ **Kubernetes & Orchestration** | 🔄 **CI/CD Automation**  
+## AWS Cloud & DevOps Engineer
 
----
+I am a passionate DevOps and Cloud Engineer focused on building scalable, secure, and automated infrastructure on AWS and Azure. I enjoy working with infrastructure as code, CI/CD pipelines, container orchestration, and cloud-native solutions.
 
-### 👨‍💻 About Me  
-I am an **AWS DevSecOps Engineer** passionate about designing, automating, and securing cloud-native infrastructures to optimize performance, scalability, and deployment efficiency. My expertise lies in **Infrastructure as Code (IaC)**, **CI/CD automation**, and **container orchestration**, ensuring high availability and operational excellence.  
+### Skills
 
----
+- Cloud: AWS, Azure
+- IaC: Terraform, CloudFormation, Ansible
+- CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, AWS CodePipeline
+- Containers: Docker, Kubernetes, Helm
+- Monitoring & Security: CloudWatch, X-Ray, CloudTrail, Prometheus, Grafana, IAM, Security Groups, KMS
+- Linux & Automation: Shell Scripting, Linux Administration, Automation
+- Version Control: Git, GitHub, GitLab
 
-## 🚀 Technical Expertise  
+### Experience Highlights
 
-### 🌐 Cloud Architecture & Infrastructure Management  
-- Provisioning, scaling, and securing AWS services: **EC2, S3, VPC, IAM, RDS, Route 53, ALB/NLB, Auto Scaling Groups (ASG), CloudFront**  
+- Worked with BMC Control-M as a Job Scheduler
+- Designed and automated cloud infrastructure and deployment workflows
+- Built scalable, secure DevOps pipelines across multiple projects
+- Focused on GitOps, cloud security, and operational efficiency
 
-### 🔧 Infrastructure as Code (IaC) & Configuration Management  
-- Automating infrastructure with **Terraform, CloudFormation, and Ansible** for consistency and scalability  
+### Core Interests
 
-### ⚡ CI/CD Pipeline Automation  
-- Designing and optimizing CI/CD pipelines with **Jenkins, GitHub Actions, GitLab CI/CD, AWS CodePipeline**  
-- Integrating tools like **SonarQube, Nexus, and Artifactory** for efficient software delivery  
+- Cloud Architecture
+- DevSecOps
+- Infrastructure Automation
+- Kubernetes and Container Security
+- CI/CD Optimization
+- Performance and Cost Optimization
 
-### 🐳 Containerization & Kubernetes Orchestration  
-- Managing **Dockerized** applications and orchestrating microservices using **Kubernetes (EKS, Helm, AWS Fargate)**  
+### Connect with Me
 
-### 📊 Observability, Logging & Security  
-- Implementing monitoring & logging with **AWS CloudWatch, Xray, CloudTrail, Prometheus, Grafana**  
-- Enforcing security best practices: **AWS Security Groups, IAM Policies, KMS, GuardDuty**  
+- Email: harshal.sahadeokar96@gmail.com
+- GitHub: https://github.com/harshal1996sahadeokar
+- LinkedIn: https://www.linkedin.com/in/harshal-sahadeokar
 
-### 🔄 Agile & DevOps Best Practices  
-- **GitOps**, version control strategies (**Git, GitHub, GitLab**)  
-- Collaborative workflows for faster and reliable deployments  
+### Quote
 
----
-
-## 🔙 Previous Experience  
-- Worked on **BMC Control-M** as a **Job Scheduler**  
-
----
-
-## 📬 Connect With Me  
-📧 **Email**: harshal.sahadeokar96@gmail.com  
-💬 Let’s collaborate and innovate together!  
+> Passionate about automation, cloud innovation, and driving efficiency in DevOps-driven environments.
 
 ---
-  
-🌟 *Passionate about automation, cloud innovation, and driving efficiency in DevOps-driven environments!* 🚀  
+
+Thanks for visiting my profile! 🚀
