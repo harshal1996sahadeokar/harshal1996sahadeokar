@@ -39,14 +39,24 @@ I build and run cloud platforms on AWS (and Azure): infrastructure as code, CI/C
 ## Latest activity (auto-updated)
 
 <!-- RECENT_REPOS:START -->
-_Updating soon…_
+### Recently pushed
+
+| Repo | What | Lang | Updated |
+|---|---|---|---|
+| [Azure-DevOps-Board-AI-Bot-Microsoft-Teams](https://github.com/harshal1996sahadeokar/Azure-DevOps-Board-AI-Bot-Microsoft-Teams) | — | TypeScript | 2026-08-24 |
+| [skills-introduction-to-github](https://github.com/harshal1996sahadeokar/skills-introduction-to-github) | My clone repository | — | 2025-12-01 |
+| [genai](https://github.com/harshal1996sahadeokar/genai) | — | — | 2025-07-27 |
+| [Test_repo](https://github.com/harshal1996sahadeokar/Test_repo) | — | HCL | 2025-05-18 |
+| [Case-Study-FinSure-A-FinTech-Web-Platform](https://github.com/harshal1996sahadeokar/Case-Study-FinSure-A-FinTech-Web-Platform) | — | HCL | 2025-05-01 |
 <!-- RECENT_REPOS:END -->
 
 <!-- RECENT_ACTIVITY:START -->
-_Updating soon…_
+### Recent activity
+
+- _No recent public activity_
 <!-- RECENT_ACTIVITY:END -->
 
-<sub>Last refreshed: <!-- UPDATED:START -->never<!-- UPDATED:END --> · refreshed daily by GitHub Actions</sub>
+<sub>Last refreshed: <!-- UPDATED:START -->2026-10-17 21:20 IST<!-- UPDATED:END --> · refreshed daily by GitHub Actions</sub>
 
 ---
 
