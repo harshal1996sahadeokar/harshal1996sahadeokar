@@ -53,10 +53,10 @@ I build and run cloud platforms on AWS (and Azure): infrastructure as code, CI/C
 <!-- RECENT_ACTIVITY:START -->
 ### Recent activity
 
-- Pushed 1 commit to [harshal1996sahadeokar/harshal1996sahadeokar](https://github.com/harshal1996sahadeokar/harshal1996sahadeokar) · 2026-10-17
+- _No recent public activity_
 <!-- RECENT_ACTIVITY:END -->
 
-<sub>Last refreshed: <!-- UPDATED:START -->2026-11-18 13:21 IST<!-- UPDATED:END --> · refreshed daily by GitHub Actions</sub>
+<sub>Last refreshed: <!-- UPDATED:START -->2026-11-19 13:17 IST<!-- UPDATED:END --> · refreshed daily by GitHub Actions</sub>
 
 ---
 
