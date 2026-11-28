@@ -56,7 +56,7 @@ I build and run cloud platforms on AWS (and Azure): infrastructure as code, CI/C
 - _No recent public activity_
 <!-- RECENT_ACTIVITY:END -->
 
-<sub>Last refreshed: <!-- UPDATED:START -->2026-11-27 14:26 IST<!-- UPDATED:END --> · refreshed daily by GitHub Actions</sub>
+<sub>Last refreshed: <!-- UPDATED:START -->2026-11-28 13:47 IST<!-- UPDATED:END --> · refreshed daily by GitHub Actions</sub>
 
 ---
 
